@@ -8,17 +8,17 @@ https://yelugubanti-sunitha.github.io/expense-manager/
 
 🚀 Features
 
-✅ Add income and expense entries
-✅ Real-time balance calculation
-✅ Monthly expense summary
-✅ Budget tracking with warning alerts
-✅ Category-wise expense breakdown (Chart.js)
-✅ Income vs Expense comparison chart
-✅ Search functionality
-✅ Filter by category
-✅ Export data as CSV
-✅ Dark Mode (saved using localStorage)
-✅ Responsive design (Bootstrap 5)
+- ✅ Add income and expense entries
+- ✅ Real-time balance calculation  
+- ✅ Monthly expense summary  
+- ✅ Budget tracking with warning alerts  
+- ✅ Category-wise expense breakdown (Chart.js)  
+- ✅ Income vs Expense comparison chart  
+- ✅ Search functionality  
+- ✅ Filter by category  
+- ✅ Export data as CSV  
+- ✅ Dark Mode (saved using localStorage)  
+- ✅ Responsive design (Bootstrap 5)  
 
 🛠️ Technologies Used
 
