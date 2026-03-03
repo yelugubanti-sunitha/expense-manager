@@ -4,7 +4,7 @@ A responsive web-based expense tracking application that helps users manage inco
 
  Live Demo
 Click here to view the live project
-(https://yourusername.github.io/expense-manager/)
+https://yelugubanti-sunitha.github.io/expense-manager/
 
 🚀 Features
 
