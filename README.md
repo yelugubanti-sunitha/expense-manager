@@ -1,6 +1,7 @@
  Expense Manager 💰
 
-A responsive web-based expense tracking application that helps users manage income, expenses, budgets, and financial summaries efficiently.
+An expense management application designed to handle income and expense records, budgeting workflows, financial summaries, and dynamic data management.
+
 
  Live Demo
 Click here to view the live project
@@ -32,8 +33,7 @@ https://yelugubanti-sunitha.github.io/expense-manager/
 📊 How It Works
 
 - User entries are stored in the browser using localStorage.
-- Data updates automatically without page refresh.
-- Charts update dynamically based on entries.
+- Application data updates dynamically based on user actions, with financial summaries and charts refreshed automatically using stored transaction records.
 - Each user’s data is stored locally and is not shared.
 
 📌 Future Improvements
